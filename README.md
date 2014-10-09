@@ -9,5 +9,5 @@ View your .md files on a fly.
 ##Installation
 1. Clone the repository
 2. Assuming you already have bower and node.js installed in your system, using your commandline run **composer install** next **bower install**
-3. Done
+3. Test it in your local server  php -S localhost:8000 
 
