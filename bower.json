@@ -1,0 +1,19 @@
+{
+  "name": "readme",
+  "version": "0.0.0",
+  "authors": [
+    "Dave Decano <johndavedecano@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.2.0"
+  }
+}

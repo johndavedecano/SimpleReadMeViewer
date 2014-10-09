@@ -1,0 +1,12 @@
+{
+    "name": "johndavedecano/readme",
+    "require": {
+        "erusev/parsedown": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Dave Decano",
+            "email": "johndavedecano@gmail.com"
+        }
+    ]
+}
